@@ -27,4 +27,4 @@ Fokus je bio prvo na sigurnosti, zatim na dizajnu te praktičnim funkcionalnosti
 
 ![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/4bbdfb79-c6d4-48f9-817d-6baeb1b0ce52)
 
-![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/7811f755-4762-4db4-b4c0-6238253068da)
+
