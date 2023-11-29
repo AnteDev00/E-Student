@@ -18,7 +18,7 @@ Projekt se sastoji od dva programa:
 - Serverski (za administratore)
 
 ## Slike
-Klijent Login + Server.exe
+Klijent.exe (Login forma) + Server.exe
 
 ![Slika1](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/1c7345b3-a1fc-4fcb-8043-3d16a08f2046)
 
