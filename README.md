@@ -1,6 +1,6 @@
 # EStudent-Projekt
-Projekt izrađen za potrebe kolegija Napredne tehnike programiranja - C++ Builder
-
+Projekt izrađen za potrebe kolegija Napredne tehnike programiranja - C++ Builder **(FILES IN SEPERATE BRANCHES)
+**
 --------------------------------------------------------------------------------------------------
 Jedino se može compilati u C++ Builder razvojnom okruženju, za koji treba licenca.
 Priložene su .cpp .h datoteke u zasebnom branchu radi razumijevanja koda, te dvije .exe datoteke (klijent i server) za pokretanje programa.
