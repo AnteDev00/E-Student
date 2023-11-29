@@ -4,12 +4,6 @@ Projekt izrađen za potrebe kolegija Napredne tehnike programiranja - C++ Builde
 -- **(FILES IN SEPERATE BRANCHES)** --
 
 --------------------------------------------------------------------------------------------------
-Jedino se može compilati u C++ Builder razvojnom okruženju, za koji treba licenca.
-Priložene su .cpp .h datoteke u zasebnom branchu radi razumijevanja koda, te dvije .exe datoteke (klijent i server) za pokretanje programa.
-
-Sav sadržaj iz **klijent brancha** treba biti u zasebnoj datoteci (folder) te isto vrijedi za **server branch** kako nebi došlo do problema prilikom pokretanja programa.
-
---------------------------------------------------------------------------------------------------
 
 Ovo je moj prvi veći projekt, pisan u C++ jeziku, napravljen za potrebe kolegija Napredne tehnike programiranja.
 
@@ -30,3 +24,10 @@ Fokus je bio prvo na sigurnosti, zatim na dizajnu te praktičnim funkcionalnosti
 ![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/4bbdfb79-c6d4-48f9-817d-6baeb1b0ce52)
 
 
+--------------------------------------------------------------------------------------------------
+
+Priložene su .cpp .h datoteke u zasebnom branchu radi razumijevanja koda, te dvije .exe datoteke (klijent i server) za pokretanje programa.
+
+Sav sadržaj iz **klijent brancha** treba biti u zasebnoj datoteci (folder) te isto vrijedi za **server branch** kako nebi došlo do problema prilikom pokretanja programa.
+
+Jedino se može compilati u C++ Builder razvojnom okruženju, za koji treba licenca.
