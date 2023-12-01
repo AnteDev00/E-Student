@@ -45,13 +45,16 @@ Klijent.exe (Student forma)
 
 ![Slika3](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/4bbdfb79-c6d4-48f9-817d-6baeb1b0ce52)
 
+
 Klijent.exe (Autentikacija korisnika)
 
 ![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/bfd82a67-ab26-4a32-94ca-53d8aba58b08)
 
+
 Klijent.exe (Promjena teme (svijetlo/tamno))
 
 ![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/ffaa48aa-ee31-4ddb-b758-27da8080e180)
+
 
 Klijent.exe (Zapisivanje svake promjene)
 
