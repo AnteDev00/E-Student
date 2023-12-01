@@ -17,7 +17,7 @@ Serverska aplikacija, osim što kontrolira i verificira podatke, dinamički gene
 - MS Access Baza Podataka
 - AES i RSA Enkripcija
 - Digitalni Potpisi
-- Hashing algoritmi (Salt, Peper)
+- Hashing algoritmi (+ Salt and Peper)
 - TCP Protokol (Internetski)
 
 ## Ključne Značajke
