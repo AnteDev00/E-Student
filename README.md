@@ -1,5 +1,8 @@
 # EStudent-Projekt
 
+## Napomena:
+Sve datoteke su zasebnom branchu.
+
 ## Opis Projekta
 
 EStudents je aplikacija razvijena u C++ Builder okruženju namijenjena profesorima i učenicima. Klijentska aplikacija omogućuje verifikaciju korisnika putem sigurne komunikacije sa serverskom aplikacijom. Profesori mogu unositi, brisati i pregledavati ocjene svojih predmeta, dok učenici imaju pristup pregledu vlastitih ocjena. Sustav koristi AES algoritam za enkripciju i digitalni potpis kako bi osigurao sigurnu razmjenu podataka između klijenta i servera.
