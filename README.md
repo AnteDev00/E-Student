@@ -1,68 +1,64 @@
-# EStudent-Projekt
+# EStudent - project
 
-## Napomena:
-Sve datoteke su zasebnom branchu.
+## Note:
+The project was developed in RAD Studio - C++ Builder. Git and GitHub were not used. This is solely for code review purposes.
 
-## Opis Projekta
+All the source files are in separate branches!
 
-EStudents je aplikacija razvijena u C++ Builder okruženju namijenjena profesorima i učenicima. Klijentska aplikacija omogućuje verifikaciju korisnika putem sigurne komunikacije sa serverskom aplikacijom. Profesori mogu unositi, brisati i pregledavati ocjene svojih predmeta, dok učenici imaju pristup pregledu vlastitih ocjena. Sustav koristi AES algoritam za enkripciju i digitalni potpis kako bi osigurao sigurnu razmjenu podataka između klijenta i servera.
+## Project Description
 
-Serverska aplikacija, osim što kontrolira i verificira podatke, dinamički generira tajne ključeve za dodatnu sigurnost. Projekt koristi MS Access bazu podataka za pohranu informacija o korisnicima, predmetima i ocjenama. Unutar projekta ističu se funkcionalnosti poput filtriranja, sortiranja i upravljanja temama. Također, implementirane su sigurnosne mjere poput hashiranja lozinki te primjene digitalnog potpisa za osiguranje integriteta podataka. Sve ove značajke čine projekt EStudents robustnim sustavom za praćenje i upravljanje ocjenama u školskom okruženju.
+EStudents is an application developed in the C++ Builder environment for teachers and students. The client application allows user verification through secure communication with the server application. Professors can enter, delete, and review grades for their subjects, while students have access to their own grade overview. The system utilizes the AES algorithm for encryption and digital signatures to ensure secure data exchange between the client and server.
 
-## Struktura Projekta
+The server application, besides controlling and verifying data, dynamically generates secret keys for additional security. The project uses an MS Access database to store information about users, subjects, and grades. Notable features include filtering, sorting, and theme management. Security measures such as password hashing and the application of digital signatures to ensure data integrity have also been implemented. All these features make the EStudents project a robust system for monitoring and managing grades in a school environment.
 
-- **Klijentska Aplikacija:** Pruža korisničko sučelje za profesore i učenike.
-- **Serverska Aplikacija:** Upravlja autentikacijom korisnika, verifikacijom podataka i sigurnom komunikacijom.
+## Project Structure
 
-## Korištene Tehnologije
+- **Client Application:** Provides a user interface for professors and students.
+- **Server Application:** Manages user authentication, data verification, and secure communication.
+
+## Technologies Used
 
 - C++ Builder
-- MS Access Baza Podataka
-- AES i RSA Enkripcija
-- Digitalni Potpisi
-- Hashing algoritmi (+ Salt and Peper)
-- TCP Protokol (Internetski)
+- MS Access Database
+- AES and RSA Encryption
+- Digital Signatures
+- Hashing algorithms (+ Salt and Pepper)
+- TCP Protocol (Internet)
 
-## Ključne Značajke
+## Key Features
 
-- Sigurna autentikacija korisnika
-- AES enkripcija za sigurnost podataka
-- Digitalni potpisi za integritet podataka
-- Dinamička generacija tajnih ključeva
-- Funkcionalnosti filtriranja i sortiranja
-- Upravljanje temama
+- Secure user authentication
+- AES encryption for data security
+- Digital signatures for data integrity
+- Dynamic generation of secret keys
+- Filtering and sorting functionalities
+- Theme management
 
-## Slike
+## Images
 
-Klijent.exe (Login forma) + Server.exe
+Client.exe (Login form) + Server.exe
 
-![Slika1](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/1c7345b3-a1fc-4fcb-8043-3d16a08f2046)
+![Image1](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/1c7345b3-a1fc-4fcb-8043-3d16a08f2046)
 
+Client.exe (Professor form)
 
-Klijent.exe (Profesor forma)
+![Image2](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/dc4c0e8b-fe57-4b64-ad86-e295711785df)
 
-![Slika2](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/dc4c0e8b-fe57-4b64-ad86-e295711785df)
+Client.exe (Student form)
 
+![Image3](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/4bbdfb79-c6d4-48f9-817d-6baeb1b0ce52)
 
-Klijent.exe (Student forma)
+Client.exe (User authentication)
 
-![Slika3](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/4bbdfb79-c6d4-48f9-817d-6baeb1b0ce52)
+![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/bfd82a67-ab26-4a32-94ca-53d8aba58b08)
 
+Client.exe (Theme change (light/dark))
 
-Klijent.exe (Autentikacija korisnika)
+![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/ffaa48aa-ee31-4ddb-b758-27da8080e180)
 
-![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/bfd82a67-ab26-4a32-94ca-53d8aba58b08)
+Client.exe (Recording every change)
 
+![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/a74dfc76-68ab-468a-9e0d-f753d8b3fc6f)
+![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/2ccc631f-06a6-4513-ab01-aaa683ea9d09)
 
-Klijent.exe (Promjena teme (svijetlo/tamno))
-
-![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/ffaa48aa-ee31-4ddb-b758-27da8080e180)
-
-
-Klijent.exe (Zapisivanje svake promjene)
-
-![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/a74dfc76-68ab-468a-9e0d-f753d8b3fc6f)
-![image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/2ccc631f-06a6-4513-ab01-aaa683ea9d09)
-
-## I još mnogo toga.. Datoteke se nalaze u zasebnim _branchovima_.
-
+## And much more.. Files are in separate _branches_.
