@@ -59,6 +59,5 @@ Client.exe (Theme change (light/dark))
 Client.exe (Recording every change)
 
 ![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/a74dfc76-68ab-468a-9e0d-f753d8b3fc6f)
-![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/2ccc631f-06a6-4513-ab01-aaa683ea9d09)
 
 ## And much more.. Files are in separate _branches_.
