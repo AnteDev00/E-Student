@@ -1,4 +1,4 @@
-# E-Student - project
+# E-Student - Readme
 
 ## Note:
 The project was developed in RAD Studio - C++ Builder. Git and GitHub were not used. This is solely for code review purposes.
