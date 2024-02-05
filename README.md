@@ -56,7 +56,7 @@ Client.exe (Theme change (light/dark))
 
 ![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/ffaa48aa-ee31-4ddb-b758-27da8080e180)
 
-Client.exe (Recording every change)
+Client.exe (Server.exe records *everyhing*)
 
 ![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/a74dfc76-68ab-468a-9e0d-f753d8b3fc6f)
 
