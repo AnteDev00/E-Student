@@ -7,9 +7,11 @@ The project was developed in RAD Studio using C++ Builder. Git and GitHub were n
 
 ## Project Description
 
-EStudents is an application developed in the C++ Builder environment for teachers and students. The client application allows user verification through secure communication with the server application. Professors can enter, delete, and review grades for their subjects, while students have access to their own grade overview. The system utilizes the AES algorithm for encryption and digital signatures to ensure secure data exchange between the client and server.
+EStudents is an application developed in the C++ Builder environment for teachers and students. 
 
-The server application, besides controlling and verifying data, dynamically generates secret keys for additional security. The project uses an MS Access database to store information about users, subjects, and grades. Notable features include filtering, sorting, and theme management. Security measures such as password hashing and the application of digital signatures to ensure data integrity have also been implemented. All these features make the EStudents project a robust system for monitoring and managing grades in a school environment.
+**The client application** allows user verification through secure communication with the server application. Professors can enter, delete, and review grades for their subjects, while students have access to their own grade overview. The system utilizes the AES algorithm for encryption and digital signatures to ensure secure data exchange between the client and server.
+
+**The server application**, besides controlling and verifying data, dynamically generates secret keys for additional security. The project uses an MS Access database to store information about users, subjects, and grades. Notable features include filtering, sorting, and theme management. Security measures such as password hashing and the application of digital signatures to ensure data integrity have also been implemented. All these features make the EStudents project a robust system for monitoring and managing grades in a school environment.
 
 ## Project Structure
 
