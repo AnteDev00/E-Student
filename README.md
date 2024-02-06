@@ -1,8 +1,6 @@
 # E-Student - Readme
 ## Project Description
 E-Student is a school grading platform that comprises of 2 application, developed in the C++ Builder environment.
-
-## Project Structure
 - **Client Application:** Provides a user interface for professors and students.
 - **Server Application:** Manages user authentication, data verification, and secure communication.
 
