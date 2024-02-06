@@ -1,9 +1,7 @@
 # E-Student - Readme
 
 ## Note:
-The project was developed in RAD Studio using C++ Builder. Git and GitHub were not used.
-
-**All the Source files and Binary files are in separate branches!**
+**All the Source files and Binary/Executable files are in separate branches!**
 
 ## Project Description
 E-Student is a school grading platform that comprises of 2 application, developed in the C++ Builder environment.
