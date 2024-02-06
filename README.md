@@ -34,7 +34,7 @@ The server application, besides controlling and verifying data, dynamically gene
 - Filtering and sorting functionalities
 - Theme management
 
-## Images
+## Screenshots
 
 Client.exe (Login form) + Server.exe
 
@@ -60,4 +60,8 @@ Client.exe (Server.exe records *everyhing*)
 
 ![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/a74dfc76-68ab-468a-9e0d-f753d8b3fc6f)
 
-## And much more.. Files are in separate _branches_.
+**And much more.. Files are in separate _branches_.**
+
+## Support
+If you have any questions, please reach out at [ante-piskovic@hotmail.com](mailto:ante-piskovic@hotmail.com)
+
