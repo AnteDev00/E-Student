@@ -6,15 +6,13 @@ E-Student is a school grading platform that comprises of 2 application, develope
 ## Concepts used
 - AES and RSA Encryption
 - Digital Signatures 
-- Hashing with Salt and Pepper 
+- Hashing (SHA256)
 - TCP Protocol
 - Data bases
 ## Key Features
 - Secure user authentication
-- AES encryption for data security
-- Digital signatures for data integrity
-- Dynamic generation of secret keys
-- Theme management
+- Data security and integrity
+- Responsive and customizeable design
 ## Screenshots
 Client.exe (Login form) + Server.exe
 ![Image1](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/1c7345b3-a1fc-4fcb-8043-3d16a08f2046)
