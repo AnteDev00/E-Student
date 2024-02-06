@@ -22,7 +22,7 @@ The server application, besides controlling and verifying data, dynamically gene
 - MS Access Database
 - AES and RSA Encryption
 - Digital Signatures
-- Hashing algorithms (+ Salt and Pepper)
+- Hashing algorithms (that include Salt and Pepper)
 - TCP Protocol (Internet)
 
 ## Key Features
@@ -63,5 +63,5 @@ Client.exe (Server.exe records *everyhing*)
 **And much more.. Files are in separate _branches_.**
 
 ## Support
-If you have any questions, please reach out at [ante-piskovic@hotmail.com](mailto:ante-piskovic@hotmail.com)
+If you have any questions, reach out at [ante-piskovic@hotmail.com](mailto:ante-piskovic@hotmail.com)
 
