@@ -8,7 +8,7 @@ E-Student is a school grading platform that comprises of 2 application, develope
 - Digital Signatures 
 - Hashing (SHA256)
 - TCP Protocol
-- Data bases
+- Databases
 ## Key Features
 - Secure user authentication
 - Data security and integrity
