@@ -3,21 +3,18 @@
 E-Student is a school grading platform that comprises of 2 application, developed in the C++ Builder environment.
 - **Client Application:** Provides a user interface for professors and students.
 - **Server Application:** Manages user authentication, data verification, and secure communication.
-
 ## Concepts used
 - AES and RSA Encryption
 - Digital Signatures 
 - Hashing with Salt and Pepper 
 - TCP Protocol
 - Data bases
-
 ## Key Features
 - Secure user authentication
 - AES encryption for data security
 - Digital signatures for data integrity
 - Dynamic generation of secret keys
 - Theme management
-
 ## Screenshots
 Client.exe (Login form) + Server.exe
 ![Image1](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/1c7345b3-a1fc-4fcb-8043-3d16a08f2046)
