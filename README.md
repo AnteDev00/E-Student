@@ -4,16 +4,12 @@ E-Student is a school grading platform that comprises of 2 application, develope
 - **Client Application:** Provides a user interface for professors and students.
 - **Server Application:** Manages user authentication, data verification, and secure communication.
 
-## Technologies Used
-- C++ Builder (RAD Studio)
-- MS Access Database
-
 ## Concepts used
 - AES and RSA Encryption
-- Digital Signatures
-- Hashing algorithms (that include Salt and Pepper)
-- TCP Protocol (Internet)
-- and more
+- Digital Signatures 
+- Hashing with Salt and Pepper 
+- TCP Protocol
+- Data bases
 
 ## Key Features
 - Secure user authentication
