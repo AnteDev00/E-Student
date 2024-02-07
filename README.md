@@ -32,7 +32,7 @@ E-Student is a school grading platform that comprises of 2 application, develope
 
 #
 
-![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/bfd82a67-ab26-4a32-94ca-53d8aba58b08)
+<div align="center">![Image](https://github.com/AnteDev00/EStudent-Projekt/assets/151842550/bfd82a67-ab26-4a32-94ca-53d8aba58b08)</div>
 
 <div align="center">Client.exe (User authentication)</div>
 
